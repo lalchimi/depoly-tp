@@ -1,0 +1,4 @@
+jar\App.class
+jar\business\Book.class
+jar\business\HibernateConfig.class
+jar\service\BookService.class
